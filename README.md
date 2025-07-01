@@ -6,7 +6,7 @@ Understand the characteristics of a strong password and test various passwords u
 ---
 
 ## 🔧 Tools Used
-- [Kaspersky Password Checker.com]([https://www.passwordmeter.com/](https://password.kaspersky.com/))
+- [Kaspersky Password Checker](https://www.passwordmeter.com)
 - [LastPass Password Generator](https://www.lastpass.com/features/password-generator)
 ---
 
